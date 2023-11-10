@@ -120,7 +120,6 @@ main {
     display: block;
     padding: 15px;
     color: #313131;
-    font-size: 20px;
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
